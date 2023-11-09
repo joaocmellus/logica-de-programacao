@@ -16,3 +16,8 @@ Linguagem: Portugol
 Data: 05/10
 
 Linguagem: Portugol
+
+## 📒 Lista 4:
+Data: 19/10
+
+Linguagem: Portugol
